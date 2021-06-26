@@ -14,3 +14,6 @@ Paper link: https://arxiv.org/abs/1710.04806
 - The modules.py contains network modules written using Torch. This modules are combined in mnist_train.py to generate the complete model.
 - The data_loader.py contains the functions to download MNIST dataset and generate train, validation and test data iterators. 
 - The data_preprocessing.py contains the batch_elastic_transform function to preprocess the data.
+- The notebooks/PrototypeDL_MNIST_Training.ipynb is a notebook file containing all code together.
+- The dataset is stored in 'data' folder.
+- Output images, console log and model are saved in the 'saved_model' folder.    
