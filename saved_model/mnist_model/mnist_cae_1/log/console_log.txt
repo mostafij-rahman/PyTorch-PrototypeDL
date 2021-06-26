@@ -1,0 +1,9 @@
+################################################################################
+Epoch: 0001
+training set errors:	classification error: 0.811831	autoencoder error: 0.044186	error_1: 3.081432	error_2: 5.116774	total error: 24.479021	accuracy: 0.395062
+training takes 28.84 seconds.
+validation set errors:	classification error: 0.696360	autoencoder error: 0.052013	error_1: 3.217901	error_2: 5.612976	total error: 22.810093	accuracy: 0.864417
+test set:
+	accuracy: 0.8716
+Total taken time 34.66 seconds.
+Optimization Finished!
