@@ -73,7 +73,7 @@ os.environ['CUDA_VISIBLE_DEVICES'] = ','.join(f'{i}' for i in range(1))
 
 # training parameters
 learning_rate = 0.002
-training_epochs = 1 #1500
+training_epochs = 100 #1500
 batch_size = 250              # the size of a minibatch
 test_display_step = 100       # how many epochs we do evaluate on the test set once
 save_step = 50                # how frequently do we save the model to disk
