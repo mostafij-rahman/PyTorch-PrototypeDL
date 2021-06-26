@@ -1,4 +1,6 @@
 # PrototypeDL PyTorch Implementation
+@author Md Mostafijur Rahman
+
 This repository contains the Pytorch implementation of "Deep Learning for Case-based Reasoning through Prototypes: A Neural Network
 that Explains Its Predictions." The model is trained on MNIST handwritten digit dataset.
 
